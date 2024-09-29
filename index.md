@@ -1,12 +1,12 @@
 ---
-layout: default
+layout: page
 title: "Home"
 ---
 
-### Education
+## Education
 I'm a student at [Sharif University of Technology](https://en.sharif.ir/) majoring in Electrical Engineering.
 
 
 
-### Background
+## Background
 I grew up in a village where Internet connectio was poor.
