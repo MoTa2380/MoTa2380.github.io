@@ -4,7 +4,7 @@ title: ""
 ---
 
 
-![My Picture](assets/images/me.png){: style="float: left; margin-right: 20px;" }
+![My Picture](assets/images/me.png){: style="float: left; margin-right: 10px;" }
 
 ## About Me
 
