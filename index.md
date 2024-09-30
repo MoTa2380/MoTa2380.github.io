@@ -3,8 +3,12 @@ layout: page
 title: ""
 ---
 
+<div style="display: flex; align-items: center;">
+  <img src="assets/images/me.png" alt="My Picture" style="width: 150px; height: auto; border-radius: 50%; margin-right: 15px;">
+  <h2 style="margin: 0;">Mohammad Taslimi</h2>
+</div>
 
-![My Picture](assets/images/me.png){: style="float: left; margin-right: 10px;" }
+<hr>
 
 ## About Me
 
