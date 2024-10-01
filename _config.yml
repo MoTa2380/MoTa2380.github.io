@@ -16,8 +16,10 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md", title: "Home"}
-  - {file: "cv.html", title: "CV"}
+  - {file: "_pages/index.md", title: "Home"}
+  - {file: "_pages/cv.html", title: "CV"}
+  - {file: "_pages/courses.md", title: Favorite Courses}
+  - {file: "_pages/projects.md", title: Projects}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mohammadtaslimi.sut@gmail.com"}
