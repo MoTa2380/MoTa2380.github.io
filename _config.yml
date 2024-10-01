@@ -16,10 +16,10 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "MoTa2380.github.io/_pages/index.md", title: "Home"}
-  - {file: "MoTa2380.github.io/_pages/cv.html", title: "CV"}
-  - {file: "MoTa2380.github.io/_pages/courses.md", title: Favorite Courses}
-  - {file: "MoTa2380.github.io/_pages/projects.md", title: Projects}
+  - {file: "index.md", title: "Home"}
+  - {file: "cv.html", title: "CV"}
+  - {file: "courses.md", title: Favorite Courses}
+  - {file: "projects.md", title: Projects}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mohammadtaslimi.sut@gmail.com"}
