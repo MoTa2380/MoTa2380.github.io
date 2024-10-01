@@ -17,7 +17,7 @@ minimal: true             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "Home"}
-  - {title: "CV", url: "/assets/CV.pdf", icon: "file-pdf", download: true}
+  - {title: "CV", url: "/assets/CV.pdf", download: true}
   - {file: "courses.md", title: Favorite Courses}
   - {file: "projects.md", title: Projects}
 
